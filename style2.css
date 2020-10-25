@@ -1,0 +1,52 @@
+body {
+    background: -webkit-linear-gradient(left, #009FFD, #2A2A72
+    );
+    background-size: cover;
+}
+
+.register{
+    
+    margin-top: 3%;
+    padding: 3%;
+}
+.register-left{
+    text-align: center;
+    color: #fff;
+    margin-top: 4%;
+}
+.register-left input{
+    border: none;
+    border-radius: 1.5rem;
+    padding: 2%;
+    width: 60%;
+    background: #f8f9fa;
+    font-weight: bold;
+    color: #383d41;
+    margin-top: 30%;
+    margin-bottom: 3%;
+    cursor: pointer;
+}
+.register-left h3{
+    margin-left: 47%;
+    margin-top:0%;
+    width: 100%;
+}
+
+
+.register-left img{
+    margin-left: 70%;
+    margin-top:-20%;
+    width: 25%;
+}
+
+.register-left p{
+    font-weight: lighter;
+    padding: 12%;
+    margin-top: -9%;
+}
+
+.care {
+    margin-top: -25%;
+    margin-left: 60%;
+    color: white;
+}
