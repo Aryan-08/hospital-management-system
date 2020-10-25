@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php 
 include('func1.php');
-$con=mysqli_connect("localhost","root","","myhmsdb");
+$con=mysqli_connect("remotemysql.com","3v6KkIARnL","2cnuinJJ87","3v6KkIARnL");
 $doctor = $_SESSION['dname'];
 if(isset($_GET['cancel']))
   {
